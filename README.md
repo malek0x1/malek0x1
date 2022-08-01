@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Form Hook**
 
-- 👨‍💻 All of my projects are available at [malek0x1.com](malek0x1.com)
+- 👨‍💻 All of my projects are available at [https://malek0x1.com](malek0x1.com)
 
 - 💬 Ask me about **nextjs , react**
 
