@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Malek</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malek0x1" alt="malek0x1" /></a> </p>
 
 - 🔭 I’m currently working on **Dashboard 7**
 
 - 🌱 I’m currently learning **React Form Hook**
 
-- 👨‍💻 All of my projects are available at [https://malek0x1.com](malek0x1.com)
+- 👨‍💻 All of my projects are available at [malek0x1.com](https://malek0x1.com)
 
 - 💬 Ask me about **nextjs , react**
 
