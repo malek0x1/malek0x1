@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Social Media WebbApp**
 
-- 🌱 I’m currently learning **React Form Hook**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [malek0x1.com](https://malek0x1.com)
 
